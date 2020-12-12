@@ -1,0 +1,86 @@
+\begin{thebibliography}{10}
+
+\bibitem{Assuncao2006}
+R.M. Assun{\c c}{\~a}o, M.C. Neves, G.~C{\^a}mara, and C.~Da~Costa Freitas.
+\newblock Efficient regionalization techniques for socio-economic geographical
+  units using minimum spanning trees.
+\newblock {\em International Journal of Geographic Information Science},
+  20(7):797--811, 2006.
+
+\bibitem{Batty2013}
+Michael Batty.
+\newblock {\em The new science of cities}.
+\newblock MIT Press, 2013.
+
+\bibitem{ACS2018}
+U.S.~Census Bureau.
+\newblock County-to-county migration flows: 2014-2018 {ACS}.
+\newblock census.gov, 2018.
+
+\bibitem{Fotheringham1989}
+A.S. Fotheringham and M.E. O’Kelly.
+\newblock {\em Spatial Interaction Models: Formulations and Applications}.
+\newblock Kluwer Academic Publishers, 1989.
+
+\bibitem{numpy}
+Charles~R. Harris, K.~Jarrod Millman, Stéfan~J van~der Walt, Ralf Gommers,
+  Pauli Virtanen, David Cournapeau, Eric Wieser, Julian Taylor, Sebastian Berg,
+  Nathaniel~J. Smith, Robert Kern, Matti Picus, Stephan Hoyer, Marten~H. van
+  Kerkwijk, Matthew Brett, Allan Haldane, Jaime Fernández~del Río, Mark
+  Wiebe, Pearu Peterson, Pierre Gérard-Marchant, Kevin Sheppard, Tyler Reddy,
+  Warren Weckesser, Hameer Abbasi, Christoph Gohlke, and Travis~E. Oliphant.
+\newblock Array programming with {NumPy}.
+\newblock {\em Nature}, 585:357–362, 2020.
+
+\bibitem{matplotlib}
+J.~D. {Hunter}.
+\newblock Matplotlib: A 2d graphics environment.
+\newblock {\em Computing in Science Engineering}, 9(3):90--95, 2007.
+
+\bibitem{Duque2012}
+S.J.~Rey J.C.~Duque, L.~Anselin.
+\newblock The max-p regions problem.
+\newblock {\em Journal of Regional Science}, 52:397--419, 2012.
+
+\bibitem{Ward1963}
+J.H.~Ward Jr.
+\newblock Hierarchical clustering to optimize an objective function.
+\newblock {\em Journal of the Amercan Statistical Association}, 58:236--244,
+  1963.
+
+\bibitem{Lloyd1982}
+Stuart~P. Lloyd.
+\newblock Least squares quantization in pcm.
+\newblock {\em IEEE Transactions on Information Theory}, 28(2):129--137, 1982.
+
+\bibitem{Openshaw1976}
+S.~Openshaw.
+\newblock Optimal zoning systems for spatial interaction models.
+\newblock {\em Environment and Planning A}, 9:169--184, 1976.
+
+\bibitem{Openshaw1983}
+S.~Openshaw.
+\newblock {\em The modifiable areal unit problem}.
+\newblock Norwick: Geo Books, 1983.
+
+\bibitem{Oshan2016}
+T.M. Oshan.
+\newblock A primer for working with the spatial interaction modeling (spint)
+  module in the python spatial analysis library (pysal).
+\newblock {\em REGION}, 3(2):11, 2016.
+
+\bibitem{Wei2020}
+R.~Wei, S.~Rey, and E.~Knaap.
+\newblock Efficient regionalization for spatially explicit neighborhood
+  delineation.
+\newblock {\em International Journal of Geographical Information Science},
+  2020.
+
+\bibitem{pandas}
+{W}es {M}c{K}inney.
+\newblock {D}ata {S}tructures for {S}tatistical {C}omputing in {P}ython.
+\newblock In {S}t\'efan van~der {W}alt and {J}arrod {M}illman, editors, {\em
+  {P}roceedings of the 9th {P}ython in {S}cience {C}onference}, pages 56 -- 61,
+  2010.
+
+\end{thebibliography}
